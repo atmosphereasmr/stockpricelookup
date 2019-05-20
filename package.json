@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "lodash": "^4.17.11",
+    "massive": "^5.10.0",
+    "node": "^12.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "robinhood": "^1.6.4",
+    "stock-data.js": "^1.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
